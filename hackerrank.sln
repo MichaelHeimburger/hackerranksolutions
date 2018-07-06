@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackerrank", "hackerrank\hackerrank.csproj", "{93760D75-9735-4E49-91F1-1E0186ACC635}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hackerrank", "hackerrank\hackerrank.csproj", "{93760D75-9735-4E49-91F1-1E0186ACC635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workspace", "workspace\workspace.csproj", "{69270D88-C3BC-4E95-AC26-61D59D853C92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{93760D75-9735-4E49-91F1-1E0186ACC635}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93760D75-9735-4E49-91F1-1E0186ACC635}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93760D75-9735-4E49-91F1-1E0186ACC635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69270D88-C3BC-4E95-AC26-61D59D853C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69270D88-C3BC-4E95-AC26-61D59D853C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69270D88-C3BC-4E95-AC26-61D59D853C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69270D88-C3BC-4E95-AC26-61D59D853C92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
