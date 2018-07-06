@@ -10,11 +10,11 @@ class Solution
         int pchar = 0;
         int mline = 0;
         int mchar = 0;
-        for (int line = 0; grid.Length - 1 > line; line++)
+        for (int line = 0; grid.Length > line; line++)
         {
 
 
-            for (int ccheck = 0; grid[line].Length - 1 > ccheck; ccheck++)
+            for (int ccheck = 0; grid[line].Length > ccheck; ccheck++)
             {
 
                 if (grid[line].ToCharArray()[ccheck] == 'p')
@@ -51,7 +51,7 @@ class Solution
         {
             while (mline > pline)
             {
-                Console.WriteLine("DOWN");
+                Console.WriteLine("UP");
                 pline++;
             }
         }
@@ -59,7 +59,7 @@ class Solution
         {
             while (mline < pline)
             {
-                Console.WriteLine("UP");
+                Console.WriteLine("DOWN");
                 mline++;
             }
         }

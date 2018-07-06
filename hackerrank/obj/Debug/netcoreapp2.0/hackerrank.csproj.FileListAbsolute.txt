@@ -1,0 +1,11 @@
+C:\Users\Michael\source\repos\hackerranksolutions\hackerrank\bin\Debug\netcoreapp2.0\hackerrank.deps.json
+C:\Users\Michael\source\repos\hackerranksolutions\hackerrank\bin\Debug\netcoreapp2.0\hackerrank.runtimeconfig.json
+C:\Users\Michael\source\repos\hackerranksolutions\hackerrank\bin\Debug\netcoreapp2.0\hackerrank.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\hackerranksolutions\hackerrank\bin\Debug\netcoreapp2.0\hackerrank.dll
+C:\Users\Michael\source\repos\hackerranksolutions\hackerrank\bin\Debug\netcoreapp2.0\hackerrank.pdb
+C:\Users\Michael\source\repos\hackerranksolutions\hackerrank\obj\Debug\netcoreapp2.0\hackerrank.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\hackerranksolutions\hackerrank\obj\Debug\netcoreapp2.0\hackerrank.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\hackerranksolutions\hackerrank\obj\Debug\netcoreapp2.0\hackerrank.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\hackerranksolutions\hackerrank\obj\Debug\netcoreapp2.0\hackerrank.AssemblyInfo.cs
+C:\Users\Michael\source\repos\hackerranksolutions\hackerrank\obj\Debug\netcoreapp2.0\hackerrank.dll
+C:\Users\Michael\source\repos\hackerranksolutions\hackerrank\obj\Debug\netcoreapp2.0\hackerrank.pdb
