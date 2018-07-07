@@ -5,3 +5,10 @@ C:\Users\Michael\source\repos\hackerranksolutions\workspace\obj\Debug\workspace.
 C:\Users\Michael\source\repos\hackerranksolutions\workspace\obj\Debug\workspace.csproj.CoreCompileInputs.cache
 C:\Users\Michael\source\repos\hackerranksolutions\workspace\obj\Debug\workspace.exe
 C:\Users\Michael\source\repos\hackerranksolutions\workspace\obj\Debug\workspace.pdb
+C:\Users\Michael\source\repos\hackerrank\workspace\bin\Debug\workspace.exe.config
+C:\Users\Michael\source\repos\hackerrank\workspace\bin\Debug\workspace.exe
+C:\Users\Michael\source\repos\hackerrank\workspace\bin\Debug\workspace.pdb
+C:\Users\Michael\source\repos\hackerrank\workspace\obj\Debug\workspace.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\hackerrank\workspace\obj\Debug\workspace.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\hackerrank\workspace\obj\Debug\workspace.exe
+C:\Users\Michael\source\repos\hackerrank\workspace\obj\Debug\workspace.pdb

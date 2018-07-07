@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Michael\\source\\repos\\hackerranksolutions\\hackerrank\\hackerrank.csproj",
+      "projectUniqueName": "C:\\Users\\Michael\\source\\repos\\hackerrank\\hackerrank\\hackerrank.csproj",
       "projectName": "hackerrank",
-      "projectPath": "C:\\Users\\Michael\\source\\repos\\hackerranksolutions\\hackerrank\\hackerrank.csproj",
+      "projectPath": "C:\\Users\\Michael\\source\\repos\\hackerrank\\hackerrank\\hackerrank.csproj",
       "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Michael\\source\\repos\\hackerranksolutions\\hackerrank\\obj\\",
+      "outputPath": "C:\\Users\\Michael\\source\\repos\\hackerrank\\hackerrank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
